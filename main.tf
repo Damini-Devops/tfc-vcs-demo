@@ -17,5 +17,5 @@ provider "aws" {
   region = "us-east-1"
 }
 resource "aws_s3_bucket" "demo" {
-  bucket = "tfc-cli-demo-damini-bucket-220712"
+  bucket = "tfc-cli-demo-damini-bucket-22070012"
 }
